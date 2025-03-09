@@ -1,0 +1,1 @@
+/*Crie uma função que recebe um array como parâmetro e imprime seus valores.*/
